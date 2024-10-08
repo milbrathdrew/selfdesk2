@@ -1,0 +1,34 @@
+/* styles.css */
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+  padding: 50px;
+}
+
+h1 {
+  color: #944c94;
+}
+
+.ticket {
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+button {
+  background-color: #645466;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  text-decoration: none;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #3f3183;
+}
